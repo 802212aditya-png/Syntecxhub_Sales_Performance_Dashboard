@@ -41,13 +41,12 @@ The main objectives of this project are:
 # Project Structure
 
 
-Syntecxhub_Sales_Performance_Dashboard/
-│
-├── README.md
-├── Sales_Performance_Dashboard.pbix
-├── sales_data.csv
-├── dashboard.png
-└── Project_Report.pdf
+Superstore Sales & Profit Dashboard.pbix
+SampleSuperstore.csv
+01_Business_Problem.ipynb
+02_Data_Understanding.ipynb
+03_Data_Cleaning.ipynb
+04_EDA.ipynb
 
 
 Author
